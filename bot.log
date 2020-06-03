@@ -1,0 +1,230 @@
+[2020-06-03 19:10:46,413] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:10:46,566] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22543
+[2020-06-03 19:10:46,719] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:11:09,550] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:11:09,872] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 19:11:10,042] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:11:19,996] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:11:20,240] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 19:11:20,394] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:13:47,725] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:13:47,870] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22539
+[2020-06-03 19:13:48,022] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:15:17,544] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:15:17,851] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22542
+[2020-06-03 19:15:18,029] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 56, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 56, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:16:13,726] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:16:13,894] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22544
+[2020-06-03 19:16:14,048] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 56, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 56, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:20:27,503] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:20:27,682] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22542
+[2020-06-03 19:20:27,833] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 56, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 56, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:22:11,317] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:22:11,446] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22545
+[2020-06-03 19:22:11,632] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 57, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 57, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:22:51,553] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:22:51,767] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22550
+[2020-06-03 19:22:51,905] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 58, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 58, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:23:52,306] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:23:52,484] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22548
+[2020-06-03 19:23:52,646] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 58, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 58, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:25:06,979] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:25:07,154] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22545
+[2020-06-03 19:25:07,327] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 57, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 57, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:26:54,491] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:26:54,712] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22539
+[2020-06-03 19:26:54,863] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 57, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 57, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:28:08,112] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:28:08,607] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22546
+[2020-06-03 19:28:08,761] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 57, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 57, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:28:55,106] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:28:55,282] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22545
+[2020-06-03 19:28:55,432] NEW_STATE Andaman and Nicobar Islands got corona virus: ['0', '33', '0', '33']
+[2020-06-03 19:28:55,432] Change for Andhra Pradesh: ['1', '0', '0', '0']->['1413', '2421', '64', '3898']
+[2020-06-03 19:28:55,432] NEW_STATE Arunachal Pradesh got corona virus: ['21', '1', '0', '22']
+[2020-06-03 19:28:55,432] NEW_STATE Assam got corona virus: ['1185', '324', '4', '1513']
+[2020-06-03 19:28:55,432] NEW_STATE Bihar got corona virus: ['2185', '1946', '24', '4155']
+[2020-06-03 19:28:55,432] NEW_STATE Chandigarh got corona virus: ['82', '214', '5', '301']
+[2020-06-03 19:28:55,432] NEW_STATE Chhattisgarh got corona virus: ['433', '130', '1', '564']
+[2020-06-03 19:28:55,433] NEW_STATE Dadar Nagar Haveli got corona virus: ['3', '1', '0', '4']
+[2020-06-03 19:28:55,433] Change for Delhi: ['11', '1', '2', '1']->['12333', '9243', '556', '22132']
+[2020-06-03 19:28:55,433] NEW_STATE Goa got corona virus: ['22', '57', '0', '79']
+[2020-06-03 19:28:55,433] NEW_STATE Gujarat got corona virus: ['4631', '11894', '1092', '17617']
+[2020-06-03 19:28:55,433] Change for Haryana: ['3', '14', '0', '0']->['1560', '1069', '23', '2652']
+[2020-06-03 19:28:55,433] NEW_STATE Himachal Pradesh got corona virus: ['200', '140', '5', '345']
+[2020-06-03 19:28:55,433] NEW_STATE Jammu and Kashmir got corona virus: ['1732', '953', '33', '2718']
+[2020-06-03 19:28:55,433] NEW_STATE Jharkhand got corona virus: ['387', '320', '5', '712']
+[2020-06-03 19:28:55,433] Change for Karnataka: ['14', '0', '0', '1']->['2341', '1403', '52', '3796']
+[2020-06-03 19:28:55,433] Change for Kerala: ['25', '2', '3', '0']->['774', '627', '11', '1412']
+[2020-06-03 19:28:55,433] NEW_STATE Ladakh got corona virus: ['33', '47', '1', '81']
+[2020-06-03 19:28:55,433] NEW_STATE Madhya Pradesh got corona virus: ['2835', '5221', '364', '8420']
+[2020-06-03 19:28:55,433] Change for Maharashtra: ['42', '3', '0', '1']->['38502', '31333', '2465', '72300']
+[2020-06-03 19:28:55,434] NEW_STATE Manipur got corona virus: ['75', '14', '0', '89']
+[2020-06-03 19:28:55,434] NEW_STATE Meghalaya got corona virus: ['14', '12', '1', '27']
+[2020-06-03 19:28:55,434] NEW_STATE Mizoram got corona virus: ['12', '1', '0', '13']
+[2020-06-03 19:28:55,434] NEW_STATE Nagaland got corona virus: ['49', '0', '0', '49']
+[2020-06-03 19:28:55,434] Change for Odisha: ['1', '0', '0', '0']->['913', '1325', '7', '2245']
+[2020-06-03 19:28:55,434] NEW_STATE Puducherry got corona virus: ['57', '25', '0', '82']
+[2020-06-03 19:28:55,434] Change for Punjab: ['1', '0', '0', '0']->['279', '2017', '46', '2342']
+[2020-06-03 19:28:55,434] Change for Rajasthan: ['5', '2', '3', '0']->['2735', '6435', '203', '9373']
+[2020-06-03 19:28:55,434] NEW_STATE Sikkim got corona virus: ['1', '0', '0', '1']
+[2020-06-03 19:28:55,434] Change for Tamil Nadu: ['2', '0', '1', '0']->['10683', '13706', '197', '24586']
+[2020-06-03 19:28:55,434] Change for Telengana: ['4', '2', '1', '0']->['1273', '1526', '92', '2891']
+[2020-06-03 19:28:55,434] NEW_STATE Tripura got corona virus: ['295', '173', '0', '468']
+[2020-06-03 19:28:55,434] Change for Uttarakhand: ['1', '0', '0', '0']->['784', '252', '7', '1043']
+[2020-06-03 19:28:55,434] Change for Uttar Pradesh: ['16', '1', '5', '0']->['3109', '5030', '222', '8361']
+[2020-06-03 19:28:55,434] Change for West Bengal: ['1', '0', '0', '0']->['3423', '2410', '335', '6168']
+[2020-06-03 19:28:55,434] NEW_STATE Cases being reassigned to states got corona virus: ['7123', '', '', '7123']
+[2020-06-03 19:28:55,435] NEW_STATE Total# got corona virus: ['101497', '100303', '5815', '207615']
+[2020-06-03 19:30:11,673] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:30:11,813] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22538
+[2020-06-03 19:31:28,991] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:31:32,353] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 19:34:24,492] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:34:24,748] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22547
+[2020-06-03 19:34:24,897] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 54, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 54, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-06-03 19:41:00,076] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:41:00,316] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22542
+[2020-06-03 19:41:12,193] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:41:12,396] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22543
+[2020-06-03 19:41:28,603] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:41:29,543] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22547
+[2020-06-03 19:41:39,759] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:41:40,019] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22550
+[2020-06-03 19:43:26,011] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:43:26,489] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22549
+[2020-06-03 19:43:43,577] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:43:43,790] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22535
+[2020-06-03 19:53:27,503] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 19:53:27,849] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 20:04:50,375] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:04:50,524] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22546
+[2020-06-03 20:06:20,490] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:06:20,698] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22536
+[2020-06-03 20:06:20,857] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 79, in <module>
+    for element in past_data[state]:
+NameError: name 'state' is not defined
+[2020-06-03 20:07:59,181] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:07:59,705] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22542
+[2020-06-03 20:08:00,057] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 79, in <module>
+    for element in past_data[state]:
+NameError: name 'state' is not defined
+[2020-06-03 20:08:22,395] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:08:22,595] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 20:08:22,736] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 80, in <module>
+    element.pop("19/03/2020 06:14", None)
+AttributeError: 'str' object has no attribute 'pop'
+[2020-06-03 20:09:25,338] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:09:25,556] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 20:09:25,709] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 64, in <module>
+    element.pop("19/03/2020 06:14", None)
+AttributeError: 'str' object has no attribute 'pop'
+[2020-06-03 20:16:40,607] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:16:40,887] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 20:18:23,249] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:18:23,411] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22540
+[2020-06-03 20:18:23,557] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 63, in <module>
+    past_data[state].pop("19/03/2020 06:14")
+KeyError: '19/03/2020 06:14'
+[2020-06-03 20:55:47,828] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:55:48,053] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22541
+[2020-06-03 20:56:52,589] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:56:52,693] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22548
+[2020-06-03 20:59:49,037] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 20:59:49,242] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22545
+[2020-06-03 21:00:54,127] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-06-03 21:00:54,268] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 22538
