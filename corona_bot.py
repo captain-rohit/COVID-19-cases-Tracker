@@ -5,7 +5,7 @@ import argparse
 import logging
 from bs4 import BeautifulSoup
 from tabulate import tabulate
-# from slack_client import slacker
+from slack_client import slacker
 
 FORMAT = '[%(asctime)-15s] %(message)s'
 logging.basicConfig(format=FORMAT, level=logging.DEBUG, filename='bot.log', filemode='a')
@@ -85,9 +85,11 @@ if __name__ == '__main__':
 
             table = tabulate(stats, headers=SHORT_HEADERS, tablefmt='psql')
             slack_text = f'Please find CoronaVirus Summary for India below:\n{events_info}\n```{table}```'
+            slacker()(slack_text)
             print(slack_text)
         else:
             print("No changes in COVID-19 Cases!")
+            
     except Exception as e:
         logging.exception('oops, corono script failed.')
-        print(f'Exception occured: [{e}]')
+        slacker()(f'Exception occured: [{e}]')
